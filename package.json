@@ -1,0 +1,25 @@
+{
+  "name": "sdkexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaypersistent/sdkExample.git"
+  },
+  "author": "Abhay Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.1",
+    "mkdirp-promise": "^5.0.1",
+    "prompt": "^1.3.0",
+    "yargs": "^13.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/abhaypersistent/sdkExample/issues"
+  },
+  "homepage": "https://github.com/abhaypersistent/sdkExample#readme"
+}
